@@ -1,12 +1,12 @@
 IDEA_resources_jp
 =================
 
-※リソースは下記に移動しました
+IntelliJ IDEA 等の日本語化ファイルです。  
 
-` http://morizo999.github.io/IDEA_resources_jp/` 
+gradleでビルドした物をlibディレクトリへ。
 
+このファイルは Pleiades の辞書を取り込んでいます。
 
-IntelliJ IDEA の翻訳用のファイルです。  
-翻訳を手伝ってくれる方がいましたらpullをお願いします。  
-翻訳手順は<http://morizo999.hatenablog.com/entry/2013/05/16/231918>です。  
-後は、ここの日本語おかしだろｺﾞﾙｧなんて意見やアドバイスも↑にもらえると助かります。  
+http://mergedoc.sourceforge.jp/
+
+取り込んだ辞書に関しては doc/readme_pleiades.txt をご覧ください。
